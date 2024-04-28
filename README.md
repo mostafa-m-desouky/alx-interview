@@ -42,5 +42,5 @@ Thank you for joining the ALX-Interview repository. We hope you find this resour
 
 
 ## Author
-- **Nicks** - [silvernicks9@gmail.com](https://github.com/nickssilver) ~ [@nicksillver](https://x.com/nicksillver):X
+- **Mostafa** - [mostafa.m.desouky@gmail.com]([https://github.com/nickssilver](https://github.com/mostafa-m-desouky))
 
